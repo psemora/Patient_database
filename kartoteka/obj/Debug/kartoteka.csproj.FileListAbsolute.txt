@@ -1,0 +1,122 @@
+C:\Users\Acer\Desktop\kartoteka\kartoteka\bin\Debug\kartoteka.exe.config
+C:\Users\Acer\Desktop\kartoteka\kartoteka\bin\Debug\kartoteka.exe
+C:\Users\Acer\Desktop\kartoteka\kartoteka\bin\Debug\kartoteka.pdb
+C:\Users\Acer\Desktop\kartoteka\kartoteka\obj\Debug\kartoteka.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\kartoteka\kartoteka\obj\Debug\kartoteka.Properties.Resources.resources
+C:\Users\Acer\Desktop\kartoteka\kartoteka\obj\Debug\kartoteka.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\kartoteka\kartoteka\obj\Debug\kartoteka.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\kartoteka\kartoteka\obj\Debug\kartoteka.exe
+C:\Users\Acer\Desktop\kartoteka\kartoteka\obj\Debug\kartoteka.pdb
+C:\Users\Acer\Desktop\kartoteka\kartoteka\obj\Debug\kartoteka.Kartoteka__.resources
+C:\Users\Acer\Desktop\kartoteka\kartoteka\obj\Debug\kartoteka.frm_slozka_pacienta.resources
+C:\Users\Acer\Desktop\kartoteka\kartoteka\obj\Debug\kartoteka.frm_kontrola.resources
+C:\Users\Acer\Desktop\kartoteka\kartoteka\obj\Debug\kartoteka.frm_pridat_pacienta.resources
+C:\Users\Acer\Desktop\kartoteka\kartoteka\obj\Debug\kartoteka.frm_pridat_zaznam.resources
+C:\Users\Acer\Desktop\kartoteka\kartoteka\obj\Debug\kartoteka.frm_prihlaseni.resources
+C:\Users\Acer\Desktop\kartoteka\kartoteka\obj\Debug\kartoteka.frm_upravit_pacienta.resources
+C:\Users\Acer\Desktop\kartoteka\kartoteka\obj\Debug\kartoteka.frm_upravit_zaznam.resources
+C:\Users\Acer\Desktop\kartoteka\kartoteka\obj\Debug\kartoteka.frm_kartoteka.resources
+F:\kartoteka\kartoteka\bin\Debug\kartoteka.exe.config
+F:\kartoteka\kartoteka\bin\Debug\kartoteka.exe
+F:\kartoteka\kartoteka\bin\Debug\kartoteka.pdb
+F:\kartoteka\kartoteka\obj\Debug\kartoteka.csprojAssemblyReference.cache
+F:\kartoteka\kartoteka\obj\Debug\kartoteka.frm_kontrola.resources
+F:\kartoteka\kartoteka\obj\Debug\kartoteka.frm_pridat_pacienta.resources
+F:\kartoteka\kartoteka\obj\Debug\kartoteka.frm_pridat_zaznam.resources
+F:\kartoteka\kartoteka\obj\Debug\kartoteka.frm_prihlaseni.resources
+F:\kartoteka\kartoteka\obj\Debug\kartoteka.frm_slozka_pacienta.resources
+F:\kartoteka\kartoteka\obj\Debug\kartoteka.frm_upravit_pacienta.resources
+F:\kartoteka\kartoteka\obj\Debug\kartoteka.frm_upravit_zaznam.resources
+F:\kartoteka\kartoteka\obj\Debug\kartoteka.frm_kartoteka.resources
+F:\kartoteka\kartoteka\obj\Debug\kartoteka.Kartoteka__.resources
+F:\kartoteka\kartoteka\obj\Debug\kartoteka.Properties.Resources.resources
+F:\kartoteka\kartoteka\obj\Debug\kartoteka.csproj.GenerateResource.cache
+F:\kartoteka\kartoteka\obj\Debug\kartoteka.csproj.CoreCompileInputs.cache
+F:\kartoteka\kartoteka\obj\Debug\kartoteka.exe
+F:\kartoteka\kartoteka\obj\Debug\kartoteka.pdb
+F:\kartoteka - Copy\kartoteka\bin\Debug\kartoteka.exe.config
+F:\kartoteka - Copy\kartoteka\bin\Debug\kartoteka.exe
+F:\kartoteka - Copy\kartoteka\bin\Debug\kartoteka.pdb
+F:\kartoteka - Copy\kartoteka\obj\Debug\kartoteka.csprojAssemblyReference.cache
+F:\kartoteka - Copy\kartoteka\obj\Debug\kartoteka.frm_kontrola.resources
+F:\kartoteka - Copy\kartoteka\obj\Debug\kartoteka.frm_pridat_pacienta.resources
+F:\kartoteka - Copy\kartoteka\obj\Debug\kartoteka.frm_pridat_zaznam.resources
+F:\kartoteka - Copy\kartoteka\obj\Debug\kartoteka.frm_prihlaseni.resources
+F:\kartoteka - Copy\kartoteka\obj\Debug\kartoteka.frm_slozka_pacienta.resources
+F:\kartoteka - Copy\kartoteka\obj\Debug\kartoteka.frm_upravit_pacienta.resources
+F:\kartoteka - Copy\kartoteka\obj\Debug\kartoteka.frm_upravit_zaznam.resources
+F:\kartoteka - Copy\kartoteka\obj\Debug\kartoteka.frm_kartoteka.resources
+F:\kartoteka - Copy\kartoteka\obj\Debug\kartoteka.Kartoteka__.resources
+F:\kartoteka - Copy\kartoteka\obj\Debug\kartoteka.Properties.Resources.resources
+F:\kartoteka - Copy\kartoteka\obj\Debug\kartoteka.csproj.GenerateResource.cache
+F:\kartoteka - Copy\kartoteka\obj\Debug\kartoteka.csproj.CoreCompileInputs.cache
+F:\kartoteka - Copy\kartoteka\obj\Debug\kartoteka.exe
+F:\kartoteka - Copy\kartoteka\obj\Debug\kartoteka.pdb
+C:\Users\Acer\Desktop\kartoteka_new\kartoteka\bin\Debug\kartoteka.exe.config
+C:\Users\Acer\Desktop\kartoteka_new\kartoteka\bin\Debug\kartoteka.exe
+C:\Users\Acer\Desktop\kartoteka_new\kartoteka\bin\Debug\kartoteka.pdb
+C:\Users\Acer\Desktop\kartoteka_new\kartoteka\obj\Debug\kartoteka.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\kartoteka_new\kartoteka\obj\Debug\kartoteka.frm_kontrola.resources
+C:\Users\Acer\Desktop\kartoteka_new\kartoteka\obj\Debug\kartoteka.frm_pridat_pacienta.resources
+C:\Users\Acer\Desktop\kartoteka_new\kartoteka\obj\Debug\kartoteka.frm_pridat_zaznam.resources
+C:\Users\Acer\Desktop\kartoteka_new\kartoteka\obj\Debug\kartoteka.frm_prihlaseni.resources
+C:\Users\Acer\Desktop\kartoteka_new\kartoteka\obj\Debug\kartoteka.frm_slozka_pacienta.resources
+C:\Users\Acer\Desktop\kartoteka_new\kartoteka\obj\Debug\kartoteka.frm_upravit_pacienta.resources
+C:\Users\Acer\Desktop\kartoteka_new\kartoteka\obj\Debug\kartoteka.frm_upravit_zaznam.resources
+C:\Users\Acer\Desktop\kartoteka_new\kartoteka\obj\Debug\kartoteka.frm_kartoteka.resources
+C:\Users\Acer\Desktop\kartoteka_new\kartoteka\obj\Debug\kartoteka.Properties.Resources.resources
+C:\Users\Acer\Desktop\kartoteka_new\kartoteka\obj\Debug\kartoteka.csproj.GenerateResource.cache
+C:\Users\Acer\Desktop\kartoteka_new\kartoteka\obj\Debug\kartoteka.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\kartoteka_new\kartoteka\obj\Debug\kartoteka.exe
+C:\Users\Acer\Desktop\kartoteka_new\kartoteka\obj\Debug\kartoteka.pdb
+E:\kartoteka_new\kartoteka\bin\Debug\kartoteka.exe.config
+E:\kartoteka_new\kartoteka\bin\Debug\kartoteka.exe
+E:\kartoteka_new\kartoteka\bin\Debug\kartoteka.pdb
+E:\kartoteka_new\kartoteka\obj\Debug\kartoteka.csprojAssemblyReference.cache
+E:\kartoteka_new\kartoteka\obj\Debug\kartoteka.frm_kontrola.resources
+E:\kartoteka_new\kartoteka\obj\Debug\kartoteka.frm_pridat_pacienta.resources
+E:\kartoteka_new\kartoteka\obj\Debug\kartoteka.frm_pridat_zaznam.resources
+E:\kartoteka_new\kartoteka\obj\Debug\kartoteka.frm_prihlaseni.resources
+E:\kartoteka_new\kartoteka\obj\Debug\kartoteka.frm_slozka_pacienta.resources
+E:\kartoteka_new\kartoteka\obj\Debug\kartoteka.frm_upravit_pacienta.resources
+E:\kartoteka_new\kartoteka\obj\Debug\kartoteka.frm_upravit_zaznam.resources
+E:\kartoteka_new\kartoteka\obj\Debug\kartoteka.frm_kartoteka.resources
+E:\kartoteka_new\kartoteka\obj\Debug\kartoteka.Properties.Resources.resources
+E:\kartoteka_new\kartoteka\obj\Debug\kartoteka.csproj.GenerateResource.cache
+E:\kartoteka_new\kartoteka\obj\Debug\kartoteka.csproj.CoreCompileInputs.cache
+E:\kartoteka_new\kartoteka\obj\Debug\kartoteka.exe
+E:\kartoteka_new\kartoteka\obj\Debug\kartoteka.pdb
+D:\kartoteka_new\kartoteka\bin\Debug\kartoteka.exe.config
+D:\kartoteka_new\kartoteka\bin\Debug\kartoteka.exe
+D:\kartoteka_new\kartoteka\bin\Debug\kartoteka.pdb
+D:\kartoteka_new\kartoteka\obj\Debug\kartoteka.csprojAssemblyReference.cache
+D:\kartoteka_new\kartoteka\obj\Debug\kartoteka.frm_kontrola.resources
+D:\kartoteka_new\kartoteka\obj\Debug\kartoteka.frm_pridat_pacienta.resources
+D:\kartoteka_new\kartoteka\obj\Debug\kartoteka.frm_pridat_zaznam.resources
+D:\kartoteka_new\kartoteka\obj\Debug\kartoteka.frm_prihlaseni.resources
+D:\kartoteka_new\kartoteka\obj\Debug\kartoteka.frm_slozka_pacienta.resources
+D:\kartoteka_new\kartoteka\obj\Debug\kartoteka.frm_upravit_pacienta.resources
+D:\kartoteka_new\kartoteka\obj\Debug\kartoteka.frm_upravit_zaznam.resources
+D:\kartoteka_new\kartoteka\obj\Debug\kartoteka.frm_kartoteka.resources
+D:\kartoteka_new\kartoteka\obj\Debug\kartoteka.Properties.Resources.resources
+D:\kartoteka_new\kartoteka\obj\Debug\kartoteka.csproj.GenerateResource.cache
+D:\kartoteka_new\kartoteka\obj\Debug\kartoteka.csproj.CoreCompileInputs.cache
+D:\kartoteka_new\kartoteka\obj\Debug\kartoteka.exe
+D:\kartoteka_new\kartoteka\obj\Debug\kartoteka.pdb
+F:\kartoteka_new\kartoteka\bin\Debug\kartoteka.exe.config
+F:\kartoteka_new\kartoteka\bin\Debug\kartoteka.exe
+F:\kartoteka_new\kartoteka\bin\Debug\kartoteka.pdb
+F:\kartoteka_new\kartoteka\obj\Debug\kartoteka.csprojAssemblyReference.cache
+F:\kartoteka_new\kartoteka\obj\Debug\kartoteka.frm_kontrola.resources
+F:\kartoteka_new\kartoteka\obj\Debug\kartoteka.frm_pridat_pacienta.resources
+F:\kartoteka_new\kartoteka\obj\Debug\kartoteka.frm_pridat_zaznam.resources
+F:\kartoteka_new\kartoteka\obj\Debug\kartoteka.frm_prihlaseni.resources
+F:\kartoteka_new\kartoteka\obj\Debug\kartoteka.frm_slozka_pacienta.resources
+F:\kartoteka_new\kartoteka\obj\Debug\kartoteka.frm_upravit_pacienta.resources
+F:\kartoteka_new\kartoteka\obj\Debug\kartoteka.frm_upravit_zaznam.resources
+F:\kartoteka_new\kartoteka\obj\Debug\kartoteka.frm_kartoteka.resources
+F:\kartoteka_new\kartoteka\obj\Debug\kartoteka.Properties.Resources.resources
+F:\kartoteka_new\kartoteka\obj\Debug\kartoteka.csproj.GenerateResource.cache
+F:\kartoteka_new\kartoteka\obj\Debug\kartoteka.csproj.CoreCompileInputs.cache
+F:\kartoteka_new\kartoteka\obj\Debug\kartoteka.exe
+F:\kartoteka_new\kartoteka\obj\Debug\kartoteka.pdb
